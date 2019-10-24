@@ -1,6 +1,7 @@
 ---
 title: "Vncviewer入れてみた"
 date: 2019-10-13
+tags: ["勉強系"]
 ---
 
 次の勉強会用に、GUI環境が欲しかったのでVNCviewerをインストール。

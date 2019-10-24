@@ -1,7 +1,7 @@
 baseurl = "https://example.com"
-languageCode = "en"
-defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
+languageCode = "JP"
+defaultContentLanguage = "JP"
+title = "宮田の備忘録"
 theme = "hugo-theme-dream"
 
 # copyright = ""
@@ -13,18 +13,18 @@ theme = "hugo-theme-dream"
 # enableRobotsTXT = true
 
 [params]
-  author = "Author"
-  motto = "Motto"
+  author = "Katsutoshi Miyata"
+  motto = "It is everywhere you've ever been."
   # description = ""
-  # avatar = ""
+  # avatar = "/img/avatar/avatar.PNG"
   
-  # email = ""
+  # email = "victorymagic36@gmail.com"
   # github = ""
   # linkedin = ""
   # codepen = ""
   # stackoverflow = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2019
   aboutHeader = "About"
 
   paginate = 4

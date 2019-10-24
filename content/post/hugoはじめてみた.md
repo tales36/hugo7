@@ -1,6 +1,7 @@
 ---
 title: "hugoはじめてみた"
 date: 2019-10-08
+tags: ["勉強系"]
 ---
 
 hugoをAWS Amplify上で動かしてます。  
@@ -22,4 +23,4 @@ Preview画面がおそろしいほど見やすい。
 
 おわり 
 
-![amplify](../../images/amplify.jpg)
+![amplify](../../img/amplify.jpg)
