@@ -1,39 +1,3 @@
-<<<<<<< HEAD
-baseurl = "https://example.com"
-languageCode = "en"
-defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
-theme = "hugo-theme-dream"
-
-# copyright = ""
-
-# googleAnalytics = ""
-
-# disqusShortname = ""
-
-# enableRobotsTXT = true
-
-[params]
-  author = "Author"
-  motto = "Motto"
-  # description = ""
-  # avatar = ""
-  
-  # email = ""
-  # github = ""
-  # linkedin = ""
-  # codepen = ""
-  # stackoverflow = ""
-
-  siteStartYear = 2016
-  aboutHeader = "About"
-
-  paginate = 4
-
-  # favicon = "/favicon.ico"
-
-  # lightMode = true
-=======
 baseurl = "https://example.com"
 languageCode = "JP"
 defaultContentLanguage = "JP"
@@ -68,4 +32,3 @@ theme = "hugo-theme-dream"
   # favicon = "/favicon.ico"
 
   # lightMode = true
->>>>>>> origin/master
