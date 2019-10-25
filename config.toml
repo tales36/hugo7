@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 baseurl = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -32,3 +33,39 @@ theme = "hugo-theme-dream"
   # favicon = "/favicon.ico"
 
   # lightMode = true
+=======
+baseurl = "https://example.com"
+languageCode = "JP"
+defaultContentLanguage = "JP"
+title = "宮田の備忘録"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+# enableRobotsTXT = true
+
+[params]
+  author = "Katsutoshi Miyata"
+  motto = "It is everywhere you've ever been."
+  # description = ""
+  # avatar = "/img/avatar/avatar.PNG"
+  
+  # email = "victorymagic36@gmail.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2019
+  aboutHeader = "About"
+
+  paginate = 4
+
+  # favicon = "/favicon.ico"
+
+  # lightMode = true
+>>>>>>> origin/master
