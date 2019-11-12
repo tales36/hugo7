@@ -3,6 +3,7 @@ languageCode = "JP"
 defaultContentLanguage = "JP"
 title = "宮田の備忘録"
 theme = "hugo-theme-dream"
+publishDir = "docs"
 
 # copyright = ""
 
