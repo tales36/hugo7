@@ -2,18 +2,18 @@ Welcome to underground...
 
 
 ## githubのコードは以下です。
----
+
 [hugo on amplify](https://github.com/tales36/hugo7)
 
 ## おおまかな図は以下です。
----
-![serverless](../../images/serverless.png)
+
+![serverless](../../img/serverless.png)
 
 ## 概要
----
+
 新規記事作成　→　**hugo new content/post/hoge.md**
 
-画像とかは **Static/images** に入れる。
+画像とかは **static/img** に入れる。
 
 <br>
 <br>
