@@ -49,7 +49,8 @@ AppSyncのログはCloud watch Logs Insightを使う。
 あとセキュリティ用HeaderをBuildに含めると、不審なIPや何度もアクセスしてくる輩を弾けるとのこと。
 
 ### ■ハイレベルアーキテクチャ
-スライドのスクリーンショット。訳ワカメ。
+スライドのスクリーンショット。訳ワカメ。  
+![スクショ](../../img/IMG_4560.JPG)
 
 ### ■アプリは以下githubに公開中
 https://github.com/aws-samples/aws-serverless-airline-booking
